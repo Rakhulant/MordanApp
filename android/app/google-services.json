@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835196184001",
+    "firebase_url": "https://localdelivery-e781a.firebaseio.com",
+    "project_id": "localdelivery-e781a",
+    "storage_bucket": "localdelivery-e781a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835196184001:android:dc3a3fd66854e14d50fb40",
+        "android_client_info": {
+          "package_name": "com.mordan.Mordan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835196184001-a8rimuf181h3u25hl2b92seidgoinc16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfNLYNSHE0dP_1ZG7t8SgtlxUiaLTFr94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835196184001-a8rimuf181h3u25hl2b92seidgoinc16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
