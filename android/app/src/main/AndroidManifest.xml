@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mordan.Mordan">
+    package="com.example.Mordan">
    <application
         android:label="Customer"
         android:icon="@mipmap/ic_launcher">

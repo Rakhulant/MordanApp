@@ -8,12 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:835196184001:android:dc3a3fd66854e14d50fb40",
+        "mobilesdk_app_id": "1:835196184001:android:7652791ac6c117b050fb40",
         "android_client_info": {
-          "package_name": "com.mordan.Mordan"
+          "package_name": "com.example.Mordan"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "835196184001-ptuq7ga5piqm9uh7uk82r8jhs73g1sf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Mordan",
+            "certificate_hash": "a629e336a10a2f4a123e04c7a20d89700b9264ea"
+          }
+        },
         {
           "client_id": "835196184001-a8rimuf181h3u25hl2b92seidgoinc16.apps.googleusercontent.com",
           "client_type": 3

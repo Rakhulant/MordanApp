@@ -13,7 +13,7 @@ class _HomeState extends State<Home> {
         actions: [
           IconButton(icon: Icon(Icons.search), onPressed: null),
           IconButton(icon: Icon(Icons.notifications_none), onPressed: null),
-          IconButton(icon: Icon(Icons.face_outlined), onPressed: null)
+          IconButton(icon: Icon(Icons.shopping_cart_outlined), onPressed: null)
         ],
       ),
     );
